@@ -1,0 +1,12 @@
+.paracolor{
+    padding: 2vw;
+    width: 300px;
+    /* height: 300px; */
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color: steelblue;
+    background-color: #dadada;
+    font-weight: 600;
+    font-size: 1.5vw;
+}
